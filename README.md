@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 - 🛡️ Member at **Team DEMON71**
-- 🎓 **Education & Human Resource Secretary** at **Udvaboni Biggan Club, Bahubal** (উদ্ভাবনী বিজ্ঞান ক্লাব, বাহুবল)
+- 🎓 **Education & Human Resource Secretary** at **Udvaboni Biggan Club, Bahubal**
 - 🔭 Working on tech projects, innovation, and community development.
 - 🌱 Learning web technologies, cybersecurity, and soft skills.
 - 👯 Open for collaborations on tech and science projects.
