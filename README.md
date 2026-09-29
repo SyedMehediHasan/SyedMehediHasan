@@ -1,16 +1,27 @@
-# ¡Hola! Soy @Syed Mehedi Hasan 👋
+# ⚡ Hi, I'm Syed Mehedi Hasan 👋
 
-Bienvenido/a a mi perfil de GitHub. Aquí puedes ver algunas de mis estadísticas de GitHub en tiempo real:
+### 👨‍💻 About Me
+- 🛡️ Member at **Team DEMON71**
+- 🎓 **Education & Human Resource Secretary** at **Udvaboni Biggan Club, Bahubal** (উদ্ভাবনী বিজ্ঞান ক্লাব, বাহুবল)
+- 🔭 Working on tech projects, innovation, and community development.
+- 🌱 Learning web technologies, cybersecurity, and soft skills.
+- 👯 Open for collaborations on tech and science projects.
 
-# GitHub Stats Preview
+---
 
-<table>
-	<tr>
-		<td width="50%" align="center">
-			<img src="https://ghstats.dev/api/card?username=SyedMehediHasan&hide_border=true&hide=issues" width="100%" alt="GitHub Stats Card" />
-		</td>
-		<td width="50%" align="center">
-			<img src="https://ghstats.dev/api/langs?username=SyedMehediHasan&hide_border=true&max_langs=10&layout=vertical_list" width="100%" alt="Top Languages" />
-		</td>
-	</tr>
-</table>
+### 🛠 Tech & Skills
+- **Skills:** Web Development, Community Management, Human Resources
+- **Tools:** Git, GitHub, VS Code, Linux
+
+---
+
+### 📊 GitHub Stats
+![Mehedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedMehediHasan&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMehediHasan&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect with Me
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-facebook-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
