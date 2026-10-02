@@ -1,27 +1,47 @@
 # ⚡ Hi, I'm Syed Mehedi Hasan 👋
 
 ### 👨‍💻 About Me
-- 🛡️ Member at **Team DEMON71**
+- 🛡️ Member of **Team DEMON71**
 - 🎓 **Education & Human Resource Secretary** at **Udvaboni Biggan Club, Bahubal**
-- 🔭 Working on tech projects, innovation, and community development.
-- 🌱 Learning web technologies, cybersecurity, and soft skills.
-- 👯 Open for collaborations on tech and science projects.
+- 🔭 Passionate about technology, innovation, and community development
+- 🌱 Currently learning **web development, cybersecurity, and practical problem-solving**
+- 👯 Open to collaborations on **tech, research, and science-related projects**
+- 💡 Interested in building impactful projects that solve real-world problems
 
 ---
 
-### 🛠 Tech & Skills
-- **Skills:** Web Development, Community Management, Human Resources
-- **Tools:** Git, GitHub, VS Code, Linux
+### 🧠 Core Interests
+- Web Development
+- Cybersecurity
+- Open Source Contribution
+- Arduino & Embedded Projects
+- Computer Vision
+- Community & Technical Leadership
+
+---
+
+### 🛠 Tech Stack
+- **Languages:** Python, JavaScript, C++, Arduino/C++
+- **Tools:** Git, GitHub, VS Code, Linux, Arduino IDE
+- **Areas:** Full-stack basics, IoT, automation, and collaborative projects
 
 ---
 
 ### 📊 GitHub Stats
-![Mehedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedMehediHasan&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedMehediHasan&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMehediHasan&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 Connect with Me
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-facebook-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+### 🚀 Featured Repositories
+- [arduino-projects-hub](https://github.com/SyedMehediHasan/arduino-projects-hub)
+- [awesome-computer-vision](https://github.com/SyedMehediHasan/awesome-computer-vision)
+- [SyedMehediHasan](https://github.com/SyedMehediHasan/SyedMehediHasan)
+
+---
+
+### 📫 Connect With Me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedMehediHasan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedmehedihasansani@gmail.com)
+
+> “Build, learn, share, and grow every day.”
